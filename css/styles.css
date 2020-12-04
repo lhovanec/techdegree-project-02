@@ -187,6 +187,17 @@ hr {
         padding-left: 10px;
     }
 
+
+    .profile-container {
+        padding-right: 38px;
+    }
+
+    .about {
+        padding-right: 30px;
+        padding-left: 30px;
+        text-align: left;
+    }
+
     .nav-container {
         padding-top: 30px;
     }
