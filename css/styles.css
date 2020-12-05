@@ -229,11 +229,12 @@ hr {
     
     .project-wrapper {
         text-align: center;
+        margin-left: 24px;
     }
     
     .col {
         float: left;
-        width: 33.33%;
+        width: 33%;
     }
 
     .pictures {
